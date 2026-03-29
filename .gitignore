@@ -1,0 +1,17 @@
+#Entorno virtualll de Python 
+venv/
+.venv/
+env/
+
+#Caché Python 
+__pycache__/
+*.pyc
+*.pyo 
+
+#Variables  de entorno y secretos - NUNCA subir
+.DS_Store
+Thumbs.db
+desktop.ini
+
+#Jupyter Notebooks
+.ipynb_checkpoints/
