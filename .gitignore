@@ -13,5 +13,6 @@ __pycache__/
 Thumbs.db
 desktop.ini
 
+
 #Jupyter Notebooks
 .ipynb_checkpoints/
