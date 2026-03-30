@@ -2,7 +2,7 @@
 
 **Autora:** Laura Camila Parra Martínez  
 **Máster:** IA & Data Science — DevSeniorCode  
-**Fecha de entrega:** 24 de marzo de 2024
+**Fecha de entrega:** 29 de marzo de 2024
 
 ---
 
